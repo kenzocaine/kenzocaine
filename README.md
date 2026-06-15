@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hey, I'm Kim 👋
 
-<!--
-**kenzocaine/kenzocaine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Engineer, maker, and pianist from Sweden/Greece.
 
-Here are some ideas to get you started:
+Right now I'm studying Embedded Systems & IoT while building projects with microcontrollers, Raspberry Pis, sensors, and lots of matcha ☕.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My interests bounce between software, electronics, music, AI, and figuring out how things work under the hood.
+
+## Current focus
+
+🔹 Embedded Systems  
+🔹 IoT Development  
+🔹 C/C++  
+🔹 Python  
+🔹 Linux  
+🔹 ESP32 & Raspberry Pi
+
+## Things I enjoy building
+
+- Connected devices
+- Home automation projects
+- Data collection systems
+- Tools that automate boring tasks (such as watering plants since my plants keep dying!)
+- Anything that combines hardware and software
+
+## Currently learning
+
+- Real-time systems
+- Embedded Linux
+- Communication protocols
+- Low-level programming
+
+Feel free to check out my repositories or reach out if you want to talk tech, embedded systems, IoT, or engineering in general.
+
+🚀 Always learning something.
